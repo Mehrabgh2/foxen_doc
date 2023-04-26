@@ -1,0 +1,1 @@
+enum ServerErrorType { auth, car }

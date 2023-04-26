@@ -1,0 +1,1 @@
+enum CommandType { command, security }
